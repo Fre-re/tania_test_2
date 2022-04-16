@@ -1,0 +1,372 @@
+/*Header Section*/
+body{background-color: #353535;}
+h1{font-size: 32px;}
+h2{font-size: 24px;}
+h3{font-size: 18px;}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;800&family=Poppins:wght@300;400;600&display=swap');
+h1{font-family: 'Montserrat', sans-serif;}
+h2{font-family: 'Montserrat', sans-serif;}
+h3{font-family: 'Montserrat', sans-serif;}
+
+h1{color: #4DA9FF;}
+h2{color: #FFEF4D;}
+h3{color: #FF4444;}
+
+h1, h2, h3{text-align: center;
+padding: 10px;}
+
+#header-section{background-color: black;
+margin-left: -9px;
+margin-right: -9px;
+margin-top: -9px;}
+/*End Header Section*/
+/**/
+/**/
+.subsection{color: #DCDCDC;}
+span{color: #4DA9FF;}
+/**/
+/**/
+/*Video Section*/
+video{width: 95%;
+display: block;
+margin-left: auto; 
+margin-right: auto;
+border-radius: 30px;}
+
+#video-section{background-color: black;
+border-radius: 20px;
+max-width: 100%;
+margin-left: auto;
+margin-right: auto;}
+/*End Video Section*/
+/**/
+/**/
+/**/
+/**/
+/*Buttons Section*/
+#buttons-section{background-color: black;
+border-radius: 20px;
+max-width: 100%;
+margin-right: auto;
+margin-left: auto;}
+
+.butts{font-family: 'Poppins', sans-serif;
+display: block;
+text-align: center;
+color: #DCDCDC;
+text-decoration: none;
+font-weight: bold;
+font-size: 18px;
+border: 2px solid white;
+padding: 10px;
+border-radius: 10px;
+max-width: 90%;
+margin-left: auto;
+margin-right: auto;}
+
+#but1{
+    border: 2px solid #00B0F0;
+    background-color: #00B0F0;
+    color: black;
+}
+#but1:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+#but2{
+    border: 2px solid #57B1FB;
+    background-color: #57B1FB;
+    color: black;
+}
+#but2:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+#but3{
+    border: 2px solid #002060;
+    background-color: #002060;
+    color: white;
+}
+#but3:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but4{
+    border: 2px solid #7BF600;
+    background-color: #7BF600;
+    color: black;
+}
+#but4:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but5{
+    border: 2px solid #00CC00;
+    background-color: #00CC00;
+    color: black;
+}
+#but5:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but6{
+    border: 2px solid #00F692;
+    background-color: #00F692;
+    color: black;
+}
+#but6:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but7{
+    border: 2px solid #EC1D24;
+    background-color: #EC1D24;
+    color: white;
+}
+#but7:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but8{
+    border: 2px solid #FF3300;
+    background-color: #FF3300;
+    color: black;
+}
+#but8:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but9{
+    border: 2px solid #C80000;
+    background-color: #C80000;
+    color: white;
+}
+#but9:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but10{
+    border: 2px solid #262626;
+    background-color: #262626;
+    color: white;
+}
+#but10:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but11{
+    border: 2px solid #3B3838;
+    background-color: #3B3838;
+    color: white;
+}
+#but11:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but12{
+    border: 2px solid #7F7F7F;
+    background-color: #7F7F7F;
+    color: black;
+}
+#but12:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but13{
+    border: 2px solid #FBDE05;
+    background-color: #FBDE05;
+    color: black;
+}
+#but13:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but14{
+    border: 2px solid #F8FB71;
+    background-color: #F8FB71;
+    color: black;
+}
+#but14:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but15{
+    border: 2px solid #A6A200;
+    background-color: #A6A200;
+    color: black;
+}
+#but15:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but16{
+    border: 2px solid #CC00CC;
+    background-color: #CC00CC;
+    color: black;
+}
+#but16:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but17{
+    border: 2px solid #9900CC;
+    background-color: #9900CC;
+    color: white;
+}
+#but17:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but18{
+    border: 2px solid #660066;
+    background-color: #660066;
+    color: white;
+}
+#but18:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but19{
+    border: 2px solid #00B0F0;
+    background-color: #00B0F0;
+    color: black;
+}
+#but19:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but20{
+    border: 2px solid #57B1FB;
+    background-color: #57B1FB;
+    color: black;
+}
+#but20:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but21{
+    border: 2px solid #002060;
+    background-color: #002060;
+    color: white;
+}
+#but21:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but22{
+    border: 2px solid #7BF600;
+    background-color: #7BF600;
+    color: black;
+}
+#but22:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but23{
+    border: 2px solid #00CC00;
+    background-color: #00CC00;
+    color: black;
+}
+#but23:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but24{
+    border: 2px solid #00F692;
+    background-color: #00F692;
+    color: black;
+}
+#but24:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but25{
+    border: 2px solid #EC1D24;
+    background-color: #EC1D24;
+    color: white;
+}
+#but25:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but26{
+    border: 2px solid #FF3300;
+    background-color: #FF3300;
+    color: black;
+}
+#but26:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but27{
+    border: 2px solid #C80000;
+    background-color: #C80000;
+    color: white;
+}
+#but27:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but28{
+    border: 2px solid #262626;
+    background-color: #262626;
+    color: white;
+}
+#but28:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but29{
+    border: 2px solid #7F7F7F;
+    background-color: #7F7F7F;
+    color: black;
+}
+#but29:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+/*End Buttons Section*/
+/**/
+/**/
+/**/
+/**/
+/*Foot Section*/
+#foot-section{background-color: black;
+padding: 50px;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+color: #4DA9FF;
+margin-left: -9px;
+margin-right: -9px;
+margin-bottom: -9px;}
+    
+.white{color: #CACACA;}
+.yellow{color: #FFE752;}
+/*End Foot Section*/
